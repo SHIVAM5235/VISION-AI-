@@ -1,0 +1,6 @@
+{
+  "name": "VisionAI Pro",
+  "description": "A premium web-based AI Image Editor with interactive Fabric.js canvas, bounding box handles, generative fill, AI background removal, smart upscaling, and iOS-inspired glassmorphism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
